@@ -1,0 +1,24 @@
+// Bouton pierre
+// btnPierre.addEventListener("click", function () {
+//   choixJoueur = "pierre";
+//   ordiChoix = ordiChoix[random];
+//   if (ordiChoix === "ciseaux") {
+//     resultat.innerHTML = ` Joueur : ${choixJoueur} <br> IA : ${ordiChoix} <br> Vous avez gagné`;
+//   } else if (ordiChoix === "pierre") {
+//     resultat.innerHTML = ` Joueur : ${choixJoueur} <br> IA : ${ordiChoix} <br> Égalité`;
+//   } else {
+//     resultat.innerHTML = ` Joueur : ${choixJoueur} <br> IA : ${ordiChoix} <br> Vous avez Perdu`;
+//   }
+// });
+
+// Bouton ciseaux
+// btnCiseaux.addEventListener("click", function () {
+//   choixJoueur = "ciseaux";
+//   ordiChoix = ordiChoix[random];
+//   if (ordiChoix === "feuille") {
+//     resultat.innerHTML = ` Joueur : ${choixJoueur} <br> IA : ${ordiChoix} <br> Vous avez gagné`;
+//   } else if (ordiChoix === "ciseaux") {
+//     resultat.innerHTML = ` Joueur : ${choixJoueur} <br> IA : ${ordiChoix} <br> Égalité`;
+//   } else {
+//     resultat.innerHTML = ` Joueur : ${choixJoueur} <br> IA : ${ordiChoix} <br> Vous avez Perdu`;
+//   }
